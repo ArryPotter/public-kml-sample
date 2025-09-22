@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>330000ff</color>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="i-map-figure-type">
+					<value>Polygon</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>112.63350099100327,-7.977062395902905 112.63360470264863,-7.977458961951044 112.63380855053374,-7.977664326412608 112.63413041561553,-7.977738682446187 112.63443439974046,-7.97762183724447 112.6346096371778,-7.97743771735685 112.63467401019417,-7.977232352781471 112.63462036601386,-7.976956172817921 112.63449161998115,-7.97674726744502 112.63423770397613,-7.976619799641497 112.63393372050606,-7.976587932684396 112.63371556772445,-7.97668353354824 112.63360470264863,-7.97681454221113 112.63350099100327,-7.977062395902905</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>330000ff</color>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<Data name="i-map-figure-type">
+					<value>Polygon</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>112.63360470264863,-7.976853490584261 112.6336011265882,-7.976835786837697 112.6336011265882,-7.97681454221113 112.63360470264863,-7.976853490584261</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

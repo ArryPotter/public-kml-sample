@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Malang Area Polygons</name>
+    <description>Polygon areas in Malang region</description>
+    
+    <Placemark>
+      <name>Area 1</name>
+      <description>First polygon area</description>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              112.63350099100327,-7.977062395902905,0
+              112.63360470264863,-7.977458961951044,0
+              112.63380855053374,-7.977664326412608,0
+              112.63413041561553,-7.977738682446187,0
+              112.63443439974046,-7.97762183724447,0
+              112.6346096371778,-7.97743771735685,0
+              112.63467401019417,-7.977232352781471,0
+              112.63462036601386,-7.976956172817921,0
+              112.63449161998115,-7.97674726744502,0
+              112.63423770397613,-7.976619799641497,0
+              112.63393372050606,-7.976587932684396,0
+              112.63371556772445,-7.97668353354824,0
+              112.63360470264863,-7.97681454221113,0
+              112.63350099100327,-7.977062395902905,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    
+    <Placemark>
+      <name>Area 2</name>
+      <description>Second polygon area</description>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              112.63360470264863,-7.976853490584261,0
+              112.6336011265882,-7.976835786837697,0
+              112.6336011265882,-7.97681454221113,0
+              112.63360470264863,-7.976853490584261,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
