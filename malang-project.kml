@@ -105,7 +105,7 @@
 					<IconStyle>
 						<scale>0.3125</scale>
 						<Icon>
-							<href>/circle.png</href>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 							<gx:w
 								xmlns:gx="http://www.google.com/kml/ext/2.2">30
 							</gx:w>
