@@ -124,7 +124,7 @@
 					<IconStyle>
 						<scale>0.3125</scale>
 						<Icon>
-							<href>https://raw.githubusercontent.com/ArryPotter/public-kml-sample/refs/heads/main/icon/construction.png</href>
+							<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 							<gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">30</gx:w>
 							<gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">30</gx:h>
 							
